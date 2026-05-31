@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsetringify",
+        "uuid": 29551533,
+        "checksum": "s1bdw"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
